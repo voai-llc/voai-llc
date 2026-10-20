@@ -12,7 +12,7 @@
 
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=64748b&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=voai-llc&style=flat-square&color=64748b&label=PROFILE+VIEWS)
 
 </div>
 
