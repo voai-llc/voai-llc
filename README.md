@@ -50,8 +50,8 @@ VOAI / LAB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9&icon_color=818cf8" alt="GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Most used languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=voai-llc&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9&icon_color=818cf8" alt="GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voai-llc&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Most used languages" height="165" />
 
 </div>
 
